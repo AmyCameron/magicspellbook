@@ -6,3 +6,6 @@
 
 ## 引張強度と許容応力と安全率
 - https://d-engineer.com/zairiki/anzenritu.html
+
+## ネジ下穴
+- https://jp.misumi-ec.com/tech-info/categories/technical_data/td01/a0197.html
